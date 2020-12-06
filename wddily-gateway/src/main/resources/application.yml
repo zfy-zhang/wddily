@@ -1,0 +1,6 @@
+dubbo:
+  application:
+    name: wddily-gateway
+  registry: zookeeper://127.0.0.1:2181
+  monitor:
+    protocol: regitry
